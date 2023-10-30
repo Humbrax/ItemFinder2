@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GridViewItem">
+        <item name="android:background">@android:color/darker_gray</item> <!-- Fondo del elemento -->
+        <item name="android:textColor">@android:color/white</item> <!-- Color del texto -->
+        <item name="android:textSize">18sp</item> <!-- Tamaño del texto -->
+        <item name="android:padding">16dp</item> <!-- Espaciado interno -->
+    </style>
+
+    <style name="LoginStyle">
+        <item name="android:background">@android:color/white</item> <!-- Fondo blanco -->
+        <item name="android:padding">16dp</item> <!-- Espaciado interno -->
+    </style>
+
+</resources>
